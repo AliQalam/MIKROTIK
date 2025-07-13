@@ -11702,6 +11702,8 @@ add list=youtube-ads address=www-googletagmanager.l.google.com comment="YT Ad"
 add list=youtube-ads address=www.analytic-google.com comment="YT Ad"
 add list=youtube-ads address=www.googleadservices.com comment="YT Ad"
 add list=youtube-ads address=www.googletagservices.com comment="YT Ad"
+add list=whitelist address=play.google.com
 
 /ip firewall filter
+add chain=forward dst-address-list=whitelist action=accept comment="allowed address"
 add chain=forward dst-address-list=youtube-ads action=drop comment="Block YouTube Ads"
