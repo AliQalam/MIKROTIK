@@ -112,23 +112,37 @@ import file-name=block-ads.rsc
 3. ✅ سيتم تطبيق الإعدادات تلقائيًا
 
 ---
-
 ## 🖼️ صور توضيحية من داخل المشروع
 
+<div align="center">
 
-#### 🔹 رفع ملف الحظر داخل MikroTik
-![رفع الملف](images/upload2.png)
+<table>
+  <tr>
+    <td align="center">
+      <strong>🔹 رفع ملف الحظر داخل MikroTik</strong><br>
+      <img src="images/upload2.png" width="300"/>
+    </td>
+    <td align="center">
+      <strong>🔹 تنفيذ أمر الاستيراد `import`</strong><br>
+      <img src="images/upload3.png" width="300"/>
+    </td>
+    <td align="center">
+      <strong>🔹 تفعيل وتعطيل الحظر</strong><br>
+      <img src="images/eneble-disable.png" width="300"/>
+    </td>
+  </tr>
+</table>
 
+</div>
 
-#### 🔹 تنفيذ أمر الاستيراد `import`
-![استدعاء import](images/upload3.png)
-
-
-#### 🔹 تفعيل وتعطيل الحظر
-![تفعيل وتعطيل الحظر](images/eneble-disable.png)
+---
 
 ## 📬 انضم إلى مجتمعنا على تيليجرام:
 
-[![Telegram](https://img.shields.io/badge/Telegram-Group-blue?style=flat&logo=telegram)](https://t.me/star1ink_1raq)
+<div align="center">
+  <a href="https://t.me/star1ink_1raq">
+    <img src="https://img.shields.io/badge/Telegram-Group-blue?style=for-the-badge&logo=telegram" alt="Telegram Group" height="60">
+  </a>
+</div>
 
 > شارك أفكارك، استفسر، وساهم في تطوير أدوات حظر الإعلانات معنا
