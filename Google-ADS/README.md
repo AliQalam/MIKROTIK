@@ -117,7 +117,7 @@ import file-name=block-ads.rsc
 
 
 #### 🔹 رفع ملف الحظر داخل MikroTik
-![رفع الملف](images/upload.png)
+![رفع الملف](images/upload2.png)
 
 
 #### 🔹 تنفيذ أمر الاستيراد `import`
