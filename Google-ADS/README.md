@@ -48,10 +48,10 @@
   <li>افتح <strong>Terminal</strong> ونفذ الأمر التالي:</li>
 </ol>
 
-<pre><code>/import file-name=block-ads.rsc</code></pre>
-
+<pre><code>/import file-name=BLOCK-ADS.rsc</code></pre>
+<pre><code>/ip dns static remove [find]</code></pre>
 <p>✅ سيتم تطبيق الإعدادات تلقائيًا دون الحاجة لإعادة تشغيل الجهاز.</p>
-
+<p>✅ طبق الامر الثاني لحذف كل شيء </p>
 <hr>
 
 <h2>🖼️ صور توضيحية من داخل المشروع</h2>
