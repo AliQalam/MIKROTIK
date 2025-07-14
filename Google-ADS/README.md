@@ -62,15 +62,15 @@
   <tr>
     <td align="center" style="background-color: #f0f8ff; padding: 15px; border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
       <strong style="color: #007acc;">🔹 رفع الملف داخل MikroTik</strong><br>
-      <img src="images/upload2.png" width="250" style="border-radius: 10px;"/>
+      <img src="images/upload1.png" width="250" style="border-radius: 10px;"/>
     </td>
     <td align="center" style="background-color: #fff0f5; padding: 15px; border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
       <strong style="color: #cc3366;">🔹 تنفيذ أمر الاستيراد</strong><br>
-      <img src="images/upload3.png" width="250" style="border-radius: 10px;"/>
+      <img src="images/upload2.png" width="250" style="border-radius: 10px;"/>
     </td>
     <td align="center" style="background-color: #f5fff0; padding: 15px; border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
       <strong style="color: #228b22;">🔹 تفعيل أو تعطيل الحظر</strong><br>
-      <img src="images/eneble-disable.png" width="250" style="border-radius: 10px;"/>
+      <img src="images/upload3.png" width="250" style="border-radius: 10px;"/>
     </td>
   </tr>
 </table>
