@@ -61,7 +61,7 @@
 <table style="border-collapse: separate; border-spacing: 20px;">
   <tr>
     <td align="center" style="background-color: #f0f8ff; padding: 15px; border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
-      <strong style="color: #007acc;">🔹 رفع الملف داخل MikroTik</strong><br>
+      <strong style="color: #007acc;">🔹 رفع الملف  </strong><br>
       <img src="images/upload1.png" width="250" style="border-radius: 10px;"/>
     </td>
     <td align="center" style="background-color: #fff0f5; padding: 15px; border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.1);">
