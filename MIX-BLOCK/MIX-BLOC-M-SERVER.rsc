@@ -59601,7 +59601,6 @@ add name=adsdk.adfarm1.adition.com address=127.0.0.1
 add name=adsdk.picooapps.com address=127.0.0.1
 add name=adsdk.vivo.com.cn address=127.0.0.1
 add name=adsdk.vrvm.com address=127.0.0.1
-add name=adserve.work address=127.0.0.1
 add name=adserver-1277986481.ap-northeast-1.elb.amazonaws.com address=127.0.0.1
 add name=adserver-2084671375.us-east-1.elb.amazonaws.com address=127.0.0.1
 add name=adserver-east.extend.tv address=127.0.0.1
@@ -60916,7 +60915,6 @@ add name=cdn.permutive.app address=127.0.0.1
 add name=cdn.permutive.com address=127.0.0.1
 add name=cdn.perzonalization.com address=127.0.0.1
 add name=cdn.petametrics.com address=127.0.0.1
-add name=cdn.popcash.net address=127.0.0.1
 add name=cdn.provesrc.com address=127.0.0.1
 add name=cdn.pushcrew.com address=127.0.0.1
 add name=cdn.pushwoosh.com address=127.0.0.1
@@ -60956,7 +60954,6 @@ add name=cdn.teads.tv.edgekey.net address=127.0.0.1
 add name=cdn.tinypass.com address=127.0.0.1
 add name=cdn.tpdads.com address=127.0.0.1
 add name=cdn.tremorhub.com address=127.0.0.1
-add name=cdn.tsyndicate.com address=127.0.0.1
 add name=cdn.tt.omtrdc.net address=127.0.0.1
 add name=cdn.tutoads.tv address=127.0.0.1
 add name=cdn.uc.atwola.com address=127.0.0.1
@@ -60975,7 +60972,6 @@ add name=cdn1.extremereach.io address=127.0.0.1
 add name=cdn1.opstag.com address=127.0.0.1
 add name=cdn1.smartadserver.com address=127.0.0.1
 add name=cdn1.vntsm.com address=127.0.0.1
-add name=cdn11.contentabc.com address=127.0.0.1
 add name=cdn2.admatic.com.tr address=127.0.0.1
 add name=cdn2.crispadvertising.com address=127.0.0.1
 add name=cdn2.extremereach.io address=127.0.0.1
@@ -61178,7 +61174,6 @@ add name=collector.scopely.io address=127.0.0.1
 add name=collector.snplow.net address=127.0.0.1
 add name=collector.stats.socialquantum.ru address=127.0.0.1
 add name=collector.tealeaf.ibmcloud.com address=127.0.0.1
-add name=collector.xhamster.com address=127.0.0.1
 add name=collectoru.us.tvsquared.com address=127.0.0.1
 add name=colossusssp.com address=127.0.0.1
 add name=com-fcagroup.netmng.com address=127.0.0.1
@@ -61251,7 +61246,6 @@ add name=content.swrve.com address=127.0.0.1
 add name=content.tapjoy.com address=127.0.0.1
 add name=content.worldnow.com address=127.0.0.1
 add name=content.zeronaught.com address=127.0.0.1
-add name=contentabc.com address=127.0.0.1
 add name=contentapi.celltick.com address=127.0.0.1
 add name=contentsquare.net address=127.0.0.1
 add name=contentstream.pl address=127.0.0.1
@@ -62159,10 +62153,8 @@ add name=huq-query-loggers-europe-west1-32ef7f4bbf54ce27.elb.eu-west-1.amazonaws
 add name=huq.io address=127.0.0.1
 add name=hv.adingo.jp address=127.0.0.1
 add name=hw-cdn-ap.trafficjunky.net address=127.0.0.1
-add name=hw-cdn.contentabc.com address=127.0.0.1
 add name=hw-cdn.trafficjunky.net address=127.0.0.1
 add name=hw-cdn2.adtng.com address=127.0.0.1
-add name=hw-cdn2.contentabc.com address=127.0.0.1
 add name=hw-cdn2.trafficjunky.net address=127.0.0.1
 add name=hybird.rayjump.com address=127.0.0.1
 add name=hybridclient.naiadsystems.com address=127.0.0.1
@@ -62506,7 +62498,6 @@ add name=jslog.krxd.net address=127.0.0.1
 add name=jssdkcdn.mparticle.com address=127.0.0.1
 add name=jssdkcdns.mparticle.com address=127.0.0.1
 add name=jssdks.mparticle.com address=127.0.0.1
-add name=juiceadv.com address=127.0.0.1
 add name=jzwjq.ads.tremorhub.com address=127.0.0.1
 add name=k.streamrail.com address=127.0.0.1
 add name=k.tcp.push.mob.com address=127.0.0.1
@@ -62582,7 +62573,6 @@ add name=lb.affilae.com address=127.0.0.1
 add name=lb3d.tj.ijinshan.com address=127.0.0.1
 add name=lbal.wowanalytics.co.uk address=127.0.0.1
 add name=lbdata.tj.ijinshan.com address=127.0.0.1
-add name=lcdn.tsyndicate.com address=127.0.0.1
 add name=lcf.cmplay.cmcm.com address=127.0.0.1
 add name=lciapi.ninthdecimal.com address=127.0.0.1
 add name=lcsdk.3g.qq.com address=127.0.0.1
@@ -62754,7 +62744,6 @@ add name=magic.cmcm.com address=127.0.0.1
 add name=magnetic.t.domdex.com address=127.0.0.1
 add name=magnum.cdn.speedshiftmedia.com address=127.0.0.1
 add name=mainadv.com address=127.0.0.1
-add name=manifest-server.naiadsystems.com address=127.0.0.1
 add name=manifest.53.localytics.com address=127.0.0.1
 add name=manifest.localytics.com address=127.0.0.1
 add name=map.go.affec.tv address=127.0.0.1
@@ -63024,7 +63013,6 @@ add name=na-g.marketo.com address=127.0.0.1
 add name=na-sj23.marketo.com address=127.0.0.1
 add name=na.hasmobi.net address=127.0.0.1
 add name=na.v7.cdn.onthe.io address=127.0.0.1
-add name=naiadsystems.com address=127.0.0.1
 add name=nan.netmng.com address=127.0.0.1
 add name=nanigans.com address=127.0.0.1
 add name=nappyattack.com address=127.0.0.1
@@ -76931,10 +76919,8 @@ add name=vulcan.branch.io address=127.0.0.1
 add name=vungle.akadns.net address=127.0.0.1
 add name=vungle.com address=127.0.0.1
 add name=vytomi.gotrackier.com address=127.0.0.1
-add name=vz-cdn.contentabc.com address=127.0.0.1
 add name=vz-cdn.trafficjunky.net address=127.0.0.1
 add name=vz-cdn2.adtng.com address=127.0.0.1
-add name=vz-cdn2.contentabc.com address=127.0.0.1
 add name=vz-cdn2.trafficjunky.net address=127.0.0.1
 add name=w.eastus.trafficmanager.inmobi.com address=127.0.0.1
 add name=w.inmobi.cn address=127.0.0.1
